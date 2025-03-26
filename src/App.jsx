@@ -38,7 +38,7 @@ function App() {
               <span className="text-white font-bold text-lg">C</span>
             </motion.div>
             <h1 className="text-xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              CheckMate
+              Checkmat (Test)
             </h1>
           </div>
           
